@@ -1,0 +1,12 @@
+/* Class-utility .list - removed markers in lists */
+.list {
+  padding-left: 0;
+  margin: 0;
+
+  list-style: none;
+}
+
+/* Class-utility .link - removed underline in links (in logo) */
+.link-decoration a {
+  text-decoration: none;
+}
